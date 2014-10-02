@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Favourites.xcscheme</key>
+		<key>CoreDataFavourites.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>D105647214E826FB0055F672</key>
+		<key>B1D8E1F819DD88670050C8EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B1D8E21719DD88680050C8EF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
